@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="a8fb82f6-4b8a-4409-a9a8-dd28dc580f2f" version="1">
+	<Properties>
+		<Name>No vanilla city-states</Name>
+		<Teaser/>
+		<Description>Disables all Vanilla and DLC city-states.</Description>
+		<Authors>username4</Authors>
+		<ShowInBrowser>Show</ShowInBrowser>
+	</Properties>
+	<Settings>
+		<Custom id="NoVanillaCityStates">
+		    <Properties>
+                <LoadOrder>1000</LoadOrder>
+            </Properties> 	
+			<Items>
+				<File>NoVanillaCityStates.sql</File>
+			</Items>
+		</Custom>	
+    </Settings>
+	<Files>
+		<File>NoVanillaCityStates.sql</File>		
+	</Files>
+</Mod>
+
+
