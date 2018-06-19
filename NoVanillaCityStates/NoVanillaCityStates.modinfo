@@ -7,7 +7,14 @@
 		<Authors>username4</Authors>
 		<ShowInBrowser>Show</ShowInBrowser>
 	</Properties>
-	<Settings>
+	<Components>
+		<UpdateDatabase id="NoVanillaCityStates">
+			<Items>
+				<File>NoVanillaCityStates.sql</File>
+			</Items>
+		</UpdateDatabase>		
+	</Components>	
+<!--	<Settings>
 		<Custom id="NoVanillaCityStates">
 		    <Properties>
                 <LoadOrder>1000</LoadOrder>
@@ -16,7 +23,7 @@
 				<File>NoVanillaCityStates.sql</File>
 			</Items>
 		</Custom>	
-    </Settings>
+    </Settings> /-->
 	<Files>
 		<File>NoVanillaCityStates.sql</File>		
 	</Files>

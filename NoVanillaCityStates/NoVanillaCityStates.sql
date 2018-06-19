@@ -22,4 +22,15 @@ OR CivilizationType = 'CIVILIZATION_TORONTO'
 OR CivilizationType = 'CIVILIZATION_VALLETTA'
 OR CivilizationType = 'CIVILIZATION_VILNIUS'
 OR CivilizationType = 'CIVILIZATION_YEREVAN'
-OR CivilizationType = 'CIVILIZATION_ZANZIBAR';
+OR CivilizationType = 'CIVILIZATION_ZANZIBAR'
+--Vikings
+OR CivilizationType = 'CIVILIZATION_ANTANARIVO'
+OR CivilizationType = 'CIVILIZATION_ARMAGH'
+OR CivilizationType = 'CIVILIZATION_AUCKLAND'
+OR CivilizationType = 'CIVILIZATION_BANDAR_BRUNEI'
+OR CivilizationType = 'CIVILIZATION_GRANADA'
+OR CivilizationType = 'CIVILIZATION_MUSCAT'
+OR CivilizationType = 'CIVILIZATION_PALENQUE'
+--RaF
+OR CivilizationType = 'CIVILIZATION_ANTIOCH'
+OR CivilizationType = 'CIVILIZATION_BABYLON';
