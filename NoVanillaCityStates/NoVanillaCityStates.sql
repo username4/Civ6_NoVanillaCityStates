@@ -24,7 +24,7 @@ OR CivilizationType = 'CIVILIZATION_VILNIUS'
 OR CivilizationType = 'CIVILIZATION_YEREVAN'
 OR CivilizationType = 'CIVILIZATION_ZANZIBAR'
 --Vikings
-OR CivilizationType = 'CIVILIZATION_ANTANARIVO'
+OR CivilizationType = 'CIVILIZATION_ANTANANARIVO'
 OR CivilizationType = 'CIVILIZATION_ARMAGH'
 OR CivilizationType = 'CIVILIZATION_AUCKLAND'
 OR CivilizationType = 'CIVILIZATION_BANDAR_BRUNEI'
@@ -33,4 +33,22 @@ OR CivilizationType = 'CIVILIZATION_MUSCAT'
 OR CivilizationType = 'CIVILIZATION_PALENQUE'
 --RaF
 OR CivilizationType = 'CIVILIZATION_ANTIOCH'
-OR CivilizationType = 'CIVILIZATION_BABYLON';
+OR CivilizationType = 'CIVILIZATION_BABYLON'
+--GS
+OR CivilizationType = 'CIVILIZATION_AKKAD'
+OR CivilizationType = 'CIVILIZATION_BOLOGNA'
+OR CivilizationType = 'CIVILIZATION_CAHOKIA'
+OR CivilizationType = 'CIVILIZATION_CARDIFF'
+OR CivilizationType = 'CIVILIZATION_FEZ'
+OR CivilizationType = 'CIVILIZATION_MEXICO_CITY'
+OR CivilizationType = 'CIVILIZATION_NAZCA'
+OR CivilizationType = 'CIVILIZATION_NGAZARGAMU'
+OR CivilizationType = 'CIVILIZATION_RAPA_NUI'
+--NFP
+OR CivilizationType = 'CIVILIZATION_CAGUANA'
+OR CivilizationType = 'CIVILIZATION_HUNZA'
+OR CivilizationType = 'CIVILIZATION_LAHORE'
+OR CivilizationType = 'CIVILIZATION_SINGAPORE'
+OR CivilizationType = 'CIVILIZATION_TARUGA'
+OR CivilizationType = 'CIVILIZATION_VATICAN_CITY';
+
